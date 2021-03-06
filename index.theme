@@ -2,4 +2,4 @@
 Name = caped-banana
 Comment = "A banana with a cape"
 Example = default
-Inherits = Breeze
+Inherits = Adwaita
