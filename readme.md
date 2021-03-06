@@ -1,6 +1,6 @@
 # Dancing banana cursor theme for Linux
 
-!(png/cp-text-1.png)[Banana text]
+![Banana text](png/cp-text-1.png)
 
 Works on \*NIX as well?
 
