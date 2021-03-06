@@ -3,6 +3,11 @@
 ![Banana hand](png/cp-hand-1.png)
 ![Banana text](png/cp-text-2.png)
 ![Banana default](png/cp-default-3.png)
+![Banana default](png/cp-default-4.png)
+![Banana default](png/cp-default-5.png)
+![Banana default](png/cp-default-6.png)
+![Banana default](png/cp-default-7.png)
+![Banana default](png/cp-default-8.png)
 
 Works on \*NIX as well?
 
