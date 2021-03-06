@@ -1,0 +1,5 @@
+[Icon Theme]
+Name = caped-banana
+Comment = "A banana with a cape"
+Example = default
+Inherits = Breeze
