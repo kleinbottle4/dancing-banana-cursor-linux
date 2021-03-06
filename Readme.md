@@ -1,6 +1,7 @@
 # Dancing banana cursor theme for Linux
 
 ![Big](big.png)
+
 ![Banana hand](png/cp-hand-1.png)
 ![Banana text](png/cp-text-2.png)
 ![Banana default](png/cp-default-3.png)
