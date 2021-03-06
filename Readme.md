@@ -11,7 +11,7 @@
 ![Banana default](png/cp-default-7.png)
 ![Banana default](png/cp-default-8.png)
 
-Works on \*NIX as well?
+Works on other \*NIXes as well?
 
 Thanks to TeoBigusGeekus for his very useful ani2ico program.
 
