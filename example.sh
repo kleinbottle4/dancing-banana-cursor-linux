@@ -1,9 +1,8 @@
+#!/bin/sh
 cd ~/.icons/caped-banana
-
-xcursorgen <(
-	for i in {1..8}; do
-		sed "s/NAME/cp-hand-$i/g" config/anim
-	done
-) hand
-
-mv hand cursors/hand
+NAME=text
+echo "#" | tee tmp
+for i in $(seq 8); do
+	sed "s/NAME/cp-$NAME-$i/g" config/anim | tee -a tmp
+done
+xcursorgen tmp $NAME && mv $NAME cursors/
